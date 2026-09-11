@@ -1,0 +1,6 @@
+.env
+nginx/certs/
+*.sql.gz
+__pycache__/
+*.pyc
+.DS_Store
