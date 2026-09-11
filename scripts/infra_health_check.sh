@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-set -uo pipefail
+set -euo pipefail
 
 LOG_FILE="/var/log/infra_health.log"
 DISK_THRESHOLD=85
